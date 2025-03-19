@@ -1,7 +1,7 @@
 # media-ripper
 
 ### Purpose
-This software is a easy to use, command line interface tool for the easy download of internet videos and audio files. 
+This software is a CLI tool with the main purpose of easily downloading internet videos and audio files. 
 
 ### Use of FFmpeg
 This software uses code of <a href=http://ffmpeg.org>FFmpeg</a> licensed under the <a href=http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html>LGPLv2.1</a> and its source can be downloaded <a href=link_to_your_sources>here</a>. I do not own any of the code within the FFmpeg library
